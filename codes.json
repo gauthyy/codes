@@ -1,6 +1,7 @@
 [
   {
     "Code": "1MVISITS!",
-    "Reward": "PandaFriend"
+    "Reward": "PandaFriend",
+    "Expired": false
   }
 ]
