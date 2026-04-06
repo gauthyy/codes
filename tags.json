@@ -39,6 +39,6 @@
   {
     "Identifier": "mason",
     "Whitelisted": [8633335661],
-    "Tag": "<b><font color="#FFFFFF">[</font><font color="#4A4A4A">mason</font><font color="#FFFFFF">]</font></b>"
+    "Tag": "[<b><font color=\"#4A4A4A\">mason</font></b>]"
   }
 ]
