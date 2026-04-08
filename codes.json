@@ -2,6 +2,13 @@
   {
     "Code": "1MVISITS!",
     "Reward": "PandaFriend",
-    "Expired": false
+    "Expired": false,
+    "Requirements": "None"
+  },
+  {
+    "Code": "LATEEASTER!",
+    "Reward": "EasterPlushie",
+    "Expired": false,
+    "Requirements": "FavoriteLike"
   }
 ]
