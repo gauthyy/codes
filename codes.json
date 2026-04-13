@@ -10,5 +10,11 @@
     "Reward": "FacesBasket",
     "Expired": false,
     "Requirements": "FavoriteLikeGroup"
+  },
+  {
+    "Code": "2MVISITS!",
+    "Reward": "LionPlushie",
+    "Expired": true,
+    "Requirements": "None"
   }
 ]
