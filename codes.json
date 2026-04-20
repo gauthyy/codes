@@ -2,19 +2,19 @@
   {
     "Code": "1MVISITS!",
     "Reward": "PandaFriend",
-    "Expired": false,
+    "Expired": true,
     "Requirements": "None"
   },
   {
     "Code": "LATEEASTER!",
     "Reward": "FacesBasket",
-    "Expired": false,
+    "Expired": true,
     "Requirements": "FavoriteLikeGroup"
   },
   {
     "Code": "2MVISITS!",
     "Reward": "LionPlushie",
-    "Expired": true,
+    "Expired": false,
     "Requirements": "None"
   }
 ]
