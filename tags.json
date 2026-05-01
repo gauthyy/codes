@@ -40,5 +40,15 @@
     "Identifier": "mason",
     "Whitelisted": [8633335661],
     "Tag": "[<b><font color=\"#4A4A4A\">mason</font></b>]"
+  },
+  {
+    "Identifier": "enchanted",
+    "Whitelisted": [3625765504],
+    "Tag": "[<b><font color=\"#FFFFFF\">sam</font></b>]"
+  },
+  {
+    "Identifier": "jade",
+    "Whitelisted": [10302505670],
+    "Tag": "[<b><font color=\"#FF69B4\">febi</font></b>]"
   }
 ]
