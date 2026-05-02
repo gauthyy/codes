@@ -50,5 +50,10 @@
     "Identifier": "jade",
     "Whitelisted": [10302505670],
     "Tag": "[<b><font color=\"#FF69B4\">febi</font></b>]"
+  },
+  {
+    "Identifier": "KVL",
+    "Whitelisted": [10432454881],
+    "Tag": "[<b><font color=\"#1a1a1a\">[</font><font face=\"GothamBold\"><font color=\"#2b2b2b\">k</font><font color=\"#242424\">v</font><font color=\"#303030\">l</font></font><font color=\"#1a1a1a\">]</font></b>]"
   }
 ]
