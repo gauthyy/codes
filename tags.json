@@ -17,11 +17,6 @@
     "Icon": "rbxassetid://108851725458616"
   },
   {
-    "Identifier": "flickers, greed alt",
-    "Whitelisted": [1678752],
-    "Tag": "<b><font color=\"#FFFFFF\">[</font><font color=\"#ffcc33\">F</font><font color=\"#99ff33\">L</font><font color=\"#33ff66\">I</font><font color=\"#33ffff\">C</font><font color=\"#3366ff\">K</font><font color=\"#9933ff\">E</font><font color=\"#ff33cc\">R</font><font color=\"#ff3333\">S</font><font color=\"#FFFFFF\">]</font></b>"
-  },
-  {
     "Identifier": "kirby",
     "Whitelisted": [3335113878],
     "Tag": "[<b><font color=\"#ff69b4\">k</font><font color=\"#ff7ac1\">i</font><font color=\"#ff8cc8\">r</font><font color=\"#ff9dd0\">b</font><font color=\"#ffafe0\">y</font></b>]"
@@ -30,16 +25,6 @@
     "Identifier": "carve",
     "Whitelisted": [59200704],
     "Tag": "[<b><font color=\"#570808\">carve</font></b>]"
-  },
-  {
-    "Identifier": "UniverseK",
-    "Whitelisted": [26777330],
-    "Tag": "[<b><font color=\"#e30e06\">K</font><font color=\"#b10c05\">I</font><font color=\"#930904\">L</font><font color=\"#750703\">L</font><font color=\"#5c0402\">T</font><font color=\"#3f0201\">E</font><font color=\"#000000\">C</font></b>]"
-  },
-  {
-    "Identifier": "mason",
-    "Whitelisted": [8633335661],
-    "Tag": "[<b><font color=\"#4A4A4A\">mason</font></b>]"
   },
   {
     "Identifier": "enchanted",
