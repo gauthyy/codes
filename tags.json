@@ -17,16 +17,6 @@
     "Icon": "rbxassetid://108851725458616"
   },
   {
-    "Identifier": "kirby",
-    "Whitelisted": [3335113878],
-    "Tag": "[<b><font color=\"#ff69b4\">k</font><font color=\"#ff7ac1\">i</font><font color=\"#ff8cc8\">r</font><font color=\"#ff9dd0\">b</font><font color=\"#ffafe0\">y</font></b>]"
-  },
-  {
-    "Identifier": "carve",
-    "Whitelisted": [59200704],
-    "Tag": "[<b><font color=\"#570808\">carve</font></b>]"
-  },
-  {
     "Identifier": "enchanted",
     "Whitelisted": [3625765504],
     "Tag": "[<b><font color=\"#FFFFFF\">sam</font></b>]"
